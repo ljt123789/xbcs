@@ -1,0 +1,26 @@
+path: L:/PythonCode/PySideCode/YOLOv8v5Code/BloodCellsDetection/datasets/BloodCells
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 20
+names:
+- Basophil
+- Echinocytes
+- Elliptocyte
+- Eosinophil
+- Erythroblast
+- Hypochromia
+- Lymphocyte
+- Macrocyte
+- Microcyte
+- Monocyte
+- Neutrophil
+- Ovalocyte
+- Platelet
+- RBC
+- Schistocyte
+- Spherocyte
+- Stomatocyte
+- TargetCell
+- Teardrop
+- WBC
